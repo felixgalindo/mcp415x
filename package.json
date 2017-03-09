@@ -1,0 +1,32 @@
+{
+  "name": "mcp415x",
+  "version": "1.0.0",
+  "description": "API for MCP415x SPI Digital POT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "spi-device": "^0.2.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixgalindo/mcp415x.git"
+  },
+  "keywords": [
+    "mcp415x",
+    "mcp4151",
+    "digital",
+    "potentiometer",
+    "microchip",
+    "raspberry",
+    "pi",
+    "MCP413X"
+  ],
+  "author": "Felix A Galindo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixgalindo/mcp415x/issues"
+  },
+  "homepage": "https://github.com/felixgalindo/mcp415x#readme"
+}
